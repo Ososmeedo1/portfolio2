@@ -1,0 +1,41 @@
+.main-page {
+  background-color: #F4FBFE;
+}
+
+.main-page .content h1 {
+  font-size: 80px;
+}
+
+.main-page .col-md-6 .image {
+  background-color: #CAE0EB;
+  height: 50vh;
+  border-radius: 5%;
+}
+
+.main-page .col-md-6 .image img {
+  width: 45%;
+  position: absolute;
+  
+  transform: translate(-50% , -30%);
+}
+
+.about h2 {
+  font-size: 80px;
+  font-weight: bold;
+}
+
+.about p {
+  font-size: 30px;
+}
+
+footer {
+  background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)) , url(../../Assets/entrepreneur-examples.webp);
+  background-position: center;
+  background-size: contain;
+  min-height: 30vh;
+}
+
+
+
+
+
